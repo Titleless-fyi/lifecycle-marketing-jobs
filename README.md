@@ -4,7 +4,7 @@ Roles that engage, convert and retain existing customers through email, SMS, pus
 
 Each job title below links to its page on [Titleless.fyi](https://www.titleless.fyi/), with the full description, how the role was classified and a direct link to apply on the employer's site.
 
-**Updated October 28, 2026** · 12 roles. Roles can close after this date; each job page shows whether the listing is still open.
+**Updated October 29, 2026** · 11 roles. Roles can close after this date; each job page shows whether the listing is still open.
 
 | Job title | Company | Location | Work arrangement | Salary | Posted |
 | --- | --- | --- | --- | --- | --- |
@@ -16,12 +16,11 @@ Each job title below links to its page on [Titleless.fyi](https://www.titleless.
 | [Senior Lifecycle Marketing Manager](https://www.titleless.fyi/companies/prime-corporate-services/jobs/senior-lifecycle-marketing-manager/) | [PRIME Corporate Services](https://www.titleless.fyi/companies/prime-corporate-services/) | Murray, UT | On-site | $110,000–$135,000 USD per year | Oct 5, 2026 |
 | [Associate, Lifecycle Marketing](https://www.titleless.fyi/companies/newity/jobs/associate-lifecycle-marketing/) | [NEWITY LLC](https://www.titleless.fyi/companies/newity/) | Chicago, IL | On-site | — | Sep 29, 2026 |
 | [Senior Customer Lifecycle Marketing Manager](https://www.titleless.fyi/companies/demandbase/jobs/senior-customer-lifecycle-marketing-manager/) | [Demandbase](https://www.titleless.fyi/companies/demandbase/) | United States | Remote \(United States\) | — | Sep 25, 2026 |
-| [Senior Lifecycle Marketing Manager](https://www.titleless.fyi/companies/docker/jobs/senior-lifecycle-marketing-manager/) | [Docker](https://www.titleless.fyi/companies/docker/) | Canada | Remote \(United States, Canada\) | — | Sep 25, 2026 |
 | [Lifecycle Marketing Manager](https://www.titleless.fyi/companies/scenthound-franchising/jobs/lifecycle-marketing-manager/) | Scenthound Franchising | United States | Remote \(USA\) | $80,000–$90,000 USD per year | Sep 24, 2026 |
 | [Growth Campaign Manager, Lifecycle](https://www.titleless.fyi/companies/virta-health/jobs/growth-campaign-manager-lifecycle/) | [Virta Health](https://www.titleless.fyi/companies/virta-health/) | United States | Remote \(USA\) | $108,500–$140,500 USD per year | Sep 23, 2026 |
 | [Lifecycle Marketing Lead - Growth](https://www.titleless.fyi/companies/whoop/jobs/lifecycle-marketing-lead-growth/) | Whoop | Boston, MA | On-site | — | Sep 23, 2026 |
 
-Source: current eligible published job pages from Titleless.fyi's inventory dated October 28, 2026; eligibility checked October 28, 2026 (UTC). Salary shown only from employer-supplied ATS fields; — means no employer-supplied salary is available.
+Source: current eligible published job pages from Titleless.fyi's inventory dated October 29, 2026; eligibility checked October 29, 2026 (UTC). Salary shown only from employer-supplied ATS fields; — means no employer-supplied salary is available.
 
 More current lifecycle marketing roles: [Lifecycle Marketing jobs on Titleless.fyi](https://www.titleless.fyi/lifecycle-marketing-jobs/). All growth marketing jobs: [Titleless.fyi](https://www.titleless.fyi/).
 
