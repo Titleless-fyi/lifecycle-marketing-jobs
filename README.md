@@ -4,7 +4,7 @@ Roles that engage, convert and retain existing customers through email, SMS, pus
 
 Each job title below links to its page on [Titleless.fyi](https://www.titleless.fyi/), with the full description, how the role was classified and a direct link to apply on the employer's site.
 
-**Updated November 7, 2026** · 9 roles. Roles can close after this date; each job page shows whether the listing is still open.
+**Updated November 9, 2026** · 9 roles. Roles can close after this date; each job page shows whether the listing is still open.
 
 | Job title | Company | Location | Work arrangement | Salary | Posted |
 | --- | --- | --- | --- | --- | --- |
@@ -18,7 +18,7 @@ Each job title below links to its page on [Titleless.fyi](https://www.titleless.
 | [Senior Lifecycle Marketing Manager](https://www.titleless.fyi/companies/prime-corporate-services/jobs/senior-lifecycle-marketing-manager/) | [PRIME Corporate Services](https://www.titleless.fyi/companies/prime-corporate-services/) | Murray, UT | On-site | $110,000–$135,000 USD per year | Oct 5, 2026 |
 | [Lifecycle Marketing Lead - Growth](https://www.titleless.fyi/companies/whoop/jobs/lifecycle-marketing-lead-growth/) | Whoop | Boston, MA | On-site | — | Sep 23, 2026 |
 
-Source: current eligible published job pages from Titleless.fyi's inventory dated November 7, 2026; eligibility checked November 7, 2026 (UTC). Salary shown only from employer-supplied ATS fields; — means no employer-supplied salary is available.
+Source: current eligible published job pages from Titleless.fyi's inventory dated November 9, 2026; eligibility checked November 9, 2026 (UTC). Salary shown only from employer-supplied ATS fields; — means no employer-supplied salary is available.
 
 More current lifecycle marketing roles: [Lifecycle Marketing jobs on Titleless.fyi](https://www.titleless.fyi/lifecycle-marketing-jobs/). All growth marketing jobs: [Titleless.fyi](https://www.titleless.fyi/).
 
