@@ -4,10 +4,11 @@ Roles that engage, convert and retain existing customers through email, SMS, pus
 
 Each job title below links to its page on [Titleless.fyi](https://www.titleless.fyi/), with the full description, how the role was classified and a direct link to apply on the employer's site.
 
-**Updated November 10, 2026** · 7 roles. Roles can close after this date; each job page shows whether the listing is still open.
+**Updated November 10, 2026** · 8 roles. Roles can close after this date; each job page shows whether the listing is still open.
 
 | Job title | Company | Location | Work arrangement | Salary | Posted |
 | --- | --- | --- | --- | --- | --- |
+| [Lifecycle Operations Associate, Patient Engagement](https://www.titleless.fyi/companies/equip-health/jobs/lifecycle-operations-associate-patient-engagement/) | [Equip Health](https://www.titleless.fyi/companies/equip-health/) | United States | Remote \(United States\) | $67,500–$75,000 USD per year | Oct 28, 2026 |
 | [Senior Lifecycle Marketing Manager](https://www.titleless.fyi/companies/clickhouse/jobs/senior-lifecycle-marketing-manager/) | [ClickHouse](https://www.titleless.fyi/companies/clickhouse/) | San Francisco, CA | Remote \(United States\) | $143,550–$194,500 USD per year | Oct 15, 2026 |
 | [Sr. Lifecycle Marketing Associate, Engagement &amp; Upgrades](https://www.titleless.fyi/companies/acorns/jobs/sr-lifecycle-marketing-associate-engagement-and-upgrades/) | [Acorns](https://www.titleless.fyi/companies/acorns/) | United States | Remote \(United States\) | — | Oct 14, 2026 |
 | [Lifecycle Marketing Lead, Patient](https://www.titleless.fyi/companies/headway/jobs/lifecycle-marketing-generalist-patient-experience/) | [Headway](https://www.titleless.fyi/companies/headway/) | United States | Remote \(United States\) | $105,400–$155,000 USD per year | Oct 14, 2026 |
